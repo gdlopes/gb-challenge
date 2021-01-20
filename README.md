@@ -100,7 +100,7 @@ Utilize as rotas citadas acima com seus devidos métodos HTTP para ver tudo fund
 
 Caso esteja acostumado com o [Insomnia](https://insomnia.rest/) e o tenha instalado, pode importar o projeto através deste botão que deixei pronto com as rotas da aplicação :point_down:
 
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=sami-challenge&uri=https%3A%2F%2Fgithub.com%2Fgdlopes%2Fsami-challenge%2Fblob%2Fmain%2FInsomnia_2021-01-19.json)
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=GB%20Challenge&uri=https%3A%2F%2Fgithub.com%2Fgdlopes%2Fgb-challenge%2Fblob%2Fmain%2FInsomnia_2021-01-19.json)
 
 
 ### Thats it folks :clap:
